@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Théo BOUTROUX",
+        "prenom": "Théo",
+        "nom": "BOUTROUX",
+        "photo": "https://media.licdn.com/dms/image/D4E35AQFWu-Kv1Kuydw/profile-framedphoto-shrink_200_200/0/1698060855173?e=1702404000&v=beta&t=gr7kFFvZDtdLbIupf60F-IEuittxmZxrVcqHQyoEwk8",
+        "alt": "photo de théo",
+        "description": "lorem ipsum",
+        "instagram": "https://www.instagram.com/?hl=fr",
+        "linkedIn": "https://www.linkedin.com/in/th%C3%A9o-boutroux/"
+    },
+    {
+        "title": "Claire NGUYEN",
+        "prenom": "Claire",
+        "nom": "NGUYEN",
+        "photo": "https://media.licdn.com/dms/image/D4D03AQEhFK48GPiz7Q/profile-displayphoto-shrink_200_200/0/1673534937364?e=1707350400&v=beta&t=IMStG51i-LnKEGVrOZ2eqz1yYMKpmy0dXX0YEsm675c",
+        "alt": "photo de claire",
+        "description": "lorem ipsum",
+        "instagram": "https://www.instagram.com/?hl=fr",
+        "linkedIn": "https://www.linkedin.com/in/claire-thuy-huyen-nguyen/"
+    },
+    {
+        "title": "Alban MARY",
+        "prenom": "Alban",
+        "nom": "MARY",
+        "photo": "https://media.licdn.com/dms/image/D4E35AQEnA4FNU9MvmA/profile-framedphoto-shrink_400_400/0/1674131065174?e=1702404000&v=beta&t=Lot9aJAzwDf5GxMreFddr0fEzI983t0Nu8QddxHFIuk",
+        "alt": "photo de alban",
+        "description": "lorem ipsum",
+        "instagram": "https://www.instagram.com/?hl=fr",
+        "linkedIn": "https://www.linkedin.com/in/alban-mary/"
+    },
+    {
+        "title": "Terry BARILLON",
+        "prenom": "Terry",
+        "nom": "BARILLON",
+        "photo": "https://media.licdn.com/dms/image/D4E03AQEmZnmhlejr_Q/profile-displayphoto-shrink_200_200/0/1673534404817?e=1707350400&v=beta&t=7IUFoQRsVbc5QgqKZBwxKRMFMVaq4B1eoFilmdtwNn0",
+        "alt": "photo de terry",
+        "description": "lorem ipsum",
+        "instagram": "https://www.instagram.com/?hl=fr",
+        "linkedIn": "https://www.linkedin.com/in/terry-barillon/"
+    },
+    {
+        "title": "Paul SUPIOT",
+        "prenom": "Paul",
+        "nom": "SUPIOT",
+        "photo": "https://media.licdn.com/dms/image/D4E03AQFxaL6Ms9Gevg/profile-displayphoto-shrink_800_800/0/1675266149229?e=1707350400&v=beta&t=aaiWhm0uIrD_I_xfxlDssSFZGVDEtL3lt0ELOJ9P1Z0",
+        "alt": "photo de paul",
+        "description": "lorem ipsum",
+        "instagram": "https://www.instagram.com/?hl=fr",
+        "linkedIn": "https://www.linkedin.com/in/paul-supiot/"
+    },
+    {
+        "title": "Sasha WILK",
+        "prenom": "Sasha",
+        "nom": "WILK",
+        "photo": "https://media.licdn.com/dms/image/D4E35AQEt--1zOtwVog/profile-framedphoto-shrink_200_200/0/1701252682629?e=1702404000&v=beta&t=Qnx8epIAfN7AklwOo5WfW5wR8sE1wu-xXZmUs-oPPHQ",
+        "alt": "photo de sasha",
+        "description": "lorem ipsum",
+        "instagram": "https://www.instagram.com/?hl=fr",
+        "linkedIn": "https://www.linkedin.com/in/sasha-wilk/"
+    }
+]
