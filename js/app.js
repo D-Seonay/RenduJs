@@ -66,8 +66,8 @@ document.addEventListener('DOMContentLoaded', function () {
             return response.json();
         })
         .then(data => {
-            content = data; // Assurez-vous que content est une variable globale accessible à cet endroit
-            showProfile(data[0]); // Afficher le premier profil après le chargement
+            content = data;
+            showProfile(data[0]);
             updateButtonsState();
         })
         .catch(error => {
